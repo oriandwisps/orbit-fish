@@ -1,0 +1,41 @@
+# name: Orbit
+# preferred_background: 101722
+# A dark, native Fish palette: teal paths, lavender commands, amber accents.
+
+fish_color_normal d8e2f0
+fish_color_command c4b5fd
+fish_color_keyword f6c177
+fish_color_quote a6d8a8
+fish_color_redirection 79dac8
+fish_color_end c4b5fd
+fish_color_error f38ba8 --bold
+fish_color_param bbd1e5
+fish_color_option 8bd5ca
+fish_color_comment 73849a
+fish_color_selection d8e2f0 --bold --background=28394f
+fish_color_operator 89b4fa
+fish_color_escape f6c177
+fish_color_autosuggestion 60738a
+fish_color_cwd 79dac8 --bold
+fish_color_cwd_root f38ba8 --bold
+fish_color_user a6d8a8
+fish_color_host c4b5fd
+fish_color_host_remote f6c177 --bold
+fish_color_status f38ba8 --bold
+fish_color_cancel --reverse
+fish_color_search_match d8e2f0 --bold --background=334155
+fish_color_history_current --bold
+fish_color_valid_path --underline=single
+fish_pager_color_progress 101722 --bold --background=79dac8
+fish_pager_color_background
+fish_pager_color_prefix c4b5fd --bold
+fish_pager_color_completion d8e2f0
+fish_pager_color_description 93a7bf
+fish_pager_color_selected_background --background=28394f
+fish_pager_color_selected_prefix 79dac8 --bold
+fish_pager_color_selected_completion d8e2f0 --bold
+fish_pager_color_selected_description bbd1e5
+fish_pager_color_secondary_background
+fish_pager_color_secondary_prefix
+fish_pager_color_secondary_completion
+fish_pager_color_secondary_description
